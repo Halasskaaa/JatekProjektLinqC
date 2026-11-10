@@ -14,7 +14,7 @@ namespace JatekProjekt
         public AdatbazisKezelo()
         {
 
-            this.connectionString = "";// Irjuk meg a connectionstringet a megfelelő adatbázisra hivatkozva
+            this.connectionString = "server=localhost;database=jatekdb;uid=root;pwd=";// Irjuk meg a connectionstringet a megfelelő adatbázisra hivatkozva
         }
 
    
